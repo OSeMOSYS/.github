@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Welcome to the OSeMOSYS Community!</h1>
 <p align="center">
-  <strong>Open-source tools for long-term energy planning</strong>
+  <strong>Open-Source Energy Modelling System</strong>
 </p>
 <p align="center">
   <a href="https://osemosys.github.io/">Website</a> •
