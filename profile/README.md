@@ -6,7 +6,7 @@
   <strong>Open-Source Energy Modelling System</strong>
 </p>
 <p align="center">
-  <a href="https://osemosys.github.io/">Website</a> •
+  <a href="https://energy-modelling-tools.github.io/osemosys/">Website</a> •
   <a href="https://osemosys.readthedocs.io/en/latest/">Documentation</a> •
   <a href="https://forum.u4ria.org/">Forum</a>
 </p>
